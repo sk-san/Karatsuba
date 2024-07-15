@@ -1,5 +1,5 @@
 <h1>Karatsuba</h1>
-Karatsuba multiplication is one of famous algorithm to perform Polynomial and fast multiplication developed by Anatoly Alexeyevich Karatsuba(Анато́лий Алексе́евич Карацу́ба). This algorithm is renowned for the typical divide-and-conquer algorithm that reduce the number of multiplication but increase the number of additions because of the cost of additions is fewer than multiplications. As a result, the whole calculating cost is almost 3/4 compared to the case without reducing the number of multiplication.
+Karatsuba multiplication is one of famous algorithm to perform Polynomial and fast multiplication developed by Anatoly Alexeyevich Karatsuba(Анато́лий Алексе́евич Карацу́ба). This algorithm is renowned for its typical divide-and-conquer approach, which reduces the number of multiplications but increases the number of additions. This is because the cost of additions is lower than that of multiplications. As a result, the overall computational cost is reduced to almost 3/4 compared to the case where the number of multiplications is not reduced.
 
 <h1>How it behave</h1>
 A = 1234
